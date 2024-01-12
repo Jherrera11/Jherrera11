@@ -6,8 +6,10 @@
 
 ###
 
-<p align="left">I'm Jose from Mexico <img src="https://https://cdn-icons-png.flaticon.com/128/197/197397.png" width="17" /><br><br>- 🖥️ I’m working as Front-end developer<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮</p>
-
+<p align="left">I'm Jose from, <img src="https://cdn-icons-png.flaticon.com/128/197/197397.png" width="17" /> <b>Mexico, Colima</b><br><br>
+  - 🖥️ I’m working as Front-end developer<br>
+  - 📚 I'm currently learning ...<br>
+  - ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮</p>
 ###
 
 <div align="left">
