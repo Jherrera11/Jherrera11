@@ -1,27 +1,26 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋</h1>
 
-###
+<p align="left">Hi I'm Jose from, <img src="https://cdn-icons-png.flaticon.com/128/197/197397.png" width="17" /> <b>Mexico, Colima</b></p>
 
-<h3 align="left">👩‍💻  About Me</h3>
+## About Me 👩‍💻
+  - 🖥️ I’m working as Front-end developer
+  - 📚 I'm currently learning ...
+  - ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮
 
-###
-
-<p align="left">I'm Jose from, <img src="https://cdn-icons-png.flaticon.com/128/197/197397.png" width="17" /> <b>Mexico, Colima</b><br><br>
-  - 🖥️ I’m working as Front-end developer<br>
-  - 📚 I'm currently learning ...<br>
-  - ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮</p>
-###
+## Social Media
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  />
+  <a href = "discordapp.com/users/DizzyRockz#2671">
+     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  </a>
+  <a href = "mailto:pepereyes-04@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="microsoft-outlook logo"  /> 
+  </a>
 </div>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠 Language
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -37,11 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-###
 
-<h3 align="left">🛠 Tools</h3>
+## 🛠 Tools
 
-###
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/wordpress/21759B" height="40" alt="wordpress logo"  />
@@ -50,5 +47,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
-
-###
