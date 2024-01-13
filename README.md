@@ -4,7 +4,7 @@
 
 ## About Me 👩‍💻
   - 🖥️ I’m working as Front-end developer
-  - 📚 I'm currently learning ...
+  - 📚 I'm currently improve my english
   - ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮
 
 ## Social Media
@@ -19,7 +19,7 @@
 </div>
 
 
-## 🛠 Language
+## Language
 
 
 <div align="left">
@@ -37,7 +37,7 @@
 </div>
 
 
-## 🛠 Tools
+## Tools
 
 
 <div align="left">
