@@ -1,11 +1,12 @@
 <h1 align="center">Hey there 👋</h1>
 
 <p align="left">Hi I'm Jose from, <img src="https://cdn-icons-png.flaticon.com/128/197/197397.png" width="17" /> <b>Mexico, Colima</b></p>
+<p>I´m student? of Intelligent Computer Engineering </p>
 
 ## About Me 👩‍💻
   - 🖥️ I’m working as Front-end developer
   - 📚 I'm currently improve my english
-  - ⚡ In my free time I cook 🌮,work out 💪🏽, play 🎮
+  - ⚡ In my free time I cook 🌮,work out 💪🏽 and play 🎮
 
 ## Social Media
 
